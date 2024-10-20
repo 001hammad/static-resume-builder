@@ -122,7 +122,11 @@ body {
         #toggle-skills:hover {
         background: #17706E;
         }
-        
+
+        .bx-arrow-back{
+            font-size: x-large;
+        }
+    
         
     
     /* Media Query for 400px screen */
